@@ -1,1 +1,1 @@
-# ocnfigurations
+# configurations
